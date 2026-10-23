@@ -1,0 +1,50 @@
+{
+  "84924723908781@lid": [
+    {
+      "id": "mvlgcmq0",
+      "name": "Personaje de ねこすい",
+      "rarity": "⚪ Común",
+      "type": "Femenino 🌸",
+      "image": "https://nekos.best/api/v2/waifu/00b5a07a-a88c-4dab-8836-d3d821aa9626.png",
+      "claimedAt": "10/23/2026"
+    },
+    {
+      "id": "mvlgp6z1",
+      "name": "Tsukasa Yuzaki",
+      "anime": "TONIKAWA: Over The Moon For You",
+      "rarity": "⚪ Común",
+      "type": "Femenino 🌸",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131106-ZJOpYOpurcYS.png",
+      "claimedAt": "10/23/2026"
+    },
+    {
+      "id": "mvljjgbr",
+      "name": "Nadeko Sengoku",
+      "anime": "Bakemonogatari",
+      "rarity": "🔮 Épico",
+      "type": "Femenino 🌸",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22050-RUw3vyGYdr9W.jpg",
+      "claimedAt": "10/23/2026"
+    },
+    {
+      "id": "mvllcx0t",
+      "name": "Thorkell",
+      "anime": "Vinland Saga",
+      "rarity": "🔮 Épico",
+      "type": "Masculino ⚡",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17440-XvYe5JY862ZT.png",
+      "claimedAt": "10/23/2026"
+    }
+  ],
+  "262092225540199@lid": [
+    {
+      "id": "mvli2rkc",
+      "name": "Sesshoumaru",
+      "anime": "InuYasha",
+      "rarity": "⚪ Común",
+      "type": "Masculino ⚡",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1358-oR7bIGfc5pnX.png",
+      "claimedAt": "10/23/2026"
+    }
+  ]
+}
